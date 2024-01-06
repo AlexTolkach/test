@@ -6,3 +6,11 @@ def add(x, y):
     return x + y
 
 """ Ветка bugfix """
+
+
+gef greting(name):
+    print("Привет", name)
+
+
+greting("Alex")
+
