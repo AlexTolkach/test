@@ -13,4 +13,5 @@ gef greting(name):
 
 
 greting("Alex")
+greting("Noy")
 
